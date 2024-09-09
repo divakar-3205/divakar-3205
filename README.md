@@ -18,6 +18,6 @@ I am an aspiring Data Analyst and Data enthusiast with intermediate knowledge in
 ![](https://github-contributor-stats.vercel.app/api?username=divakar-3205&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=divakar-3205&icon=2&color=1)]
+![](https://visitcount.itsvg.in/api?id=divakar-3205&icon=2&color=1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
