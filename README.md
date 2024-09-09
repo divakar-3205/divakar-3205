@@ -13,8 +13,7 @@ I am an aspiring Data Analyst and Data enthusiast with intermediate knowledge in
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divakar-3205&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Quotes
-"IF YOU TORTURE THE DATA LONG ENOUGH, IT WILL CONFESS TO ANYTHING"
-                                                 - Ronald.H.Coase
+"IF YOU TORTURE THE DATA LONG ENOUGH, IT WILL CONFESS TO ANYTHING" <br>- Ronald.H.Coase<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=divakar-3205&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
