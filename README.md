@@ -18,8 +18,7 @@ I’ve built solid fundamentals in SQL and Python, and recently started explorin
 
 ### ✍️ Quotes
 "IF YOU TORTURE THE DATA LONG ENOUGH, IT WILL CONFESS TO ANYTHING" <br>- Ronald.H.Coase<br>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=divakar-3205&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 ![](https://visitcount.itsvg.in/api?id=divakar-3205&icon=2&color=1)
