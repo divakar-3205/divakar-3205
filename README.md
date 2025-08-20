@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi, I'm Divakar K G — a passionate and curious learner with a strong interest in data and its potential to drive real-world decisions. I'm currently pursuing my final year of B.E. CSE, with a consistent academic record and a growing foundation in data technologies.
+Hi, I'm Divakar K G — a passionate and curious learner with a good problem solving and keen interest in data and its potential to drive real-world decisions. I'm currently pursuing my final year of B.E. CSE, with a consistent academic record and a growing foundation in data technologies.
 
-I’ve built solid fundamentals in SQL and Python, and recently started exploring data visualization tools like Tableau and Power BI. I enjoy solving problems by thinking deeply and asking the right questions — a habit that fuels my continuous learning mindset.
+I’ve built solid fundamentals in SQL and Python, and recently started exploring data visualization tools like Power BI. I enjoy solving problems by thinking deeply and asking the right questions — a habit that fuels my continuous learning mindset.
 
 💡 My short-term goal is to master data analysis tools and techniques, while my long-term ambition is to build impactful solutions as a data scientist.
 
